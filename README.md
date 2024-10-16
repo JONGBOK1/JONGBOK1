@@ -3,7 +3,7 @@
 # 👋 Welcome to my page!
 
 Welcome to my page!
-I'm JONG BOK LEE, Student from Dongyang Mirae Univ.![](https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png)  Seoul, Korea, currently living in  Incheon, Korea.
+I'm JONG BOK LEE, Student from Dongyang Mirae Univ.<img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> Seoul, Korea, currently living in  Incheon, Korea.
 
 ## 💻 Things I code with
 
