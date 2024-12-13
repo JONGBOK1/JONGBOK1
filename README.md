@@ -27,6 +27,11 @@ I'm JONG BOK LEE, Student from Dongyang Mirae Univ.<img src="https://user-images
 ## 🏷️ 뱃지 만들기
   [shields.io](https://shields.io)
 ---
+## 📫 Contact Me
+- Github : [JONGBOK](https://github.com/JONGBOK1/)
+- Email : [whdqhr54321@gmail.com](whdqhr54321@gmail.com)  
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGBOK1)](https://github.com/anuraghazra/github-readme-stats)
 [![JONGBOK1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JONGBOK1)](https://github.com/anuraghazra/github-readme-stats)
 
