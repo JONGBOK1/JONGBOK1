@@ -28,7 +28,7 @@ I'm JONG BOK LEE, Student from Dongyang Mirae Univ.<img src="https://user-images
   [shields.io](https://shields.io)
 ---
 ## 📫 Contact Me
-- Github : [JONGBOK](https://github.com/JONGBOK1/)
+- Github : [JONGBOK](https://github.com/JONGBOK1)
 - Email : [whdqhr54321@gmail.com](whdqhr54321@gmail.com)  
 
 ---
