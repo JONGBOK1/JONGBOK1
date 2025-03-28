@@ -29,7 +29,7 @@ I'm JONG BOK LEE, Student from Dongyang Mirae Univ.<img src="https://user-images
 ---
 ## 📫 Contact Me
 - Github : [JONGBOK](https://github.com/JONGBOK1)
-- Email : [whdqhr54321@gmail.com](whdqhr31@dongyang.ac.kr)  
+- Email : [whdqhr31@dongyang.ac.kr](whdqhr31@dongyang.ac.kr)  
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGBOK1)](https://github.com/anuraghazra/github-readme-stats)
